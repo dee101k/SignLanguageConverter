@@ -1,3 +1,3 @@
 # SignLanguageConverter
-*** For More Information View this  video ***
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=wbyoTp0O2eM)
+[![ScreenShot](https://i.ytimg.com/vi/wbyoTp0O2eM/1.jpg)](https://www.youtube.com/watch?v=wbyoTp0O2eM)
+
