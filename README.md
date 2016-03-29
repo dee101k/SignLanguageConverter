@@ -6,4 +6,4 @@ Texas Instruments.
 
  VIEW THIS VIDEO FOR MORE INFO 
 
-[![Alt text for your video](https://i.ytimg.com/vi/wbyoTp0O2eM/1.jpg)](https://www.youtube.com/watch?v=wbyoTp0O2eM)
+[![Alt text for your video](https://i.ytimg.com/vi/wbyoTp0O2eM/1.jpg =100x20)](https://www.youtube.com/watch?v=wbyoTp0O2eM)
