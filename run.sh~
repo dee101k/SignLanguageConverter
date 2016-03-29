@@ -1,0 +1,17 @@
+#!/bin/bash
+
+   gnome-terminal -x ./test
+    ./face face_google.xml 0
+   
+	file ="motor.txt"
+	name=$(cat "$file")
+	while($name != "1")
+	do
+		name=$(cat "$file")
+	done		
+  gnome-terminal -x ./speech_1
+  gnome-terminal -x ./phone
+  ./opencv 
+
+
+ 

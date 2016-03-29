@@ -1,0 +1,19 @@
+#ifndef _RUN_
+#define _RUN_
+
+ #include<iostream>
+ #include <unistd.h>
+ #include <string.h>
+ 
+using namespace std;
+
+class speak {
+
+		public:
+			int start();
+					
+	    };
+
+#endif
+
+

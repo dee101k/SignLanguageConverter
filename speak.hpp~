@@ -1,0 +1,27 @@
+#ifndef _VOICE_
+#define _VOICE_
+
+
+#include<iostream>
+#include<fstream>
+
+using namespace std;
+
+
+class speak {
+
+		public:
+		int speech;
+		void initialize();
+		void voice();
+
+		private:
+
+		ofstream outfile;
+		
+		
+		
+	    };
+
+#endif
+	
